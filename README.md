@@ -81,15 +81,5 @@ The goal of this project is to:
 - **Unstructured**
 - **YouTube Transcript Loader**
 
----
 
-## ⚙️ Setup & Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone <your-repo-url>
-cd <repo-folder>
-
-
-## 📂 Project Structure
 
